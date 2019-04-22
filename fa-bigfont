@@ -1,0 +1,85 @@
+table,
+tr,
+td,
+th {
+    font-size: 12pt;
+    !important;
+}
+
+.button,
+.button-link {
+    font-size: 12pt;
+    !important;
+}
+
+.textarea {
+    font-size: 12pt;
+    !important;
+}
+.textbox {
+    font-size: 12pt;
+    !important;
+}
+
+
+.uploadfield {
+    font-size: 12pt;
+    !important;
+}
+
+.listbox {
+    font-size: 12pt;
+    !important;
+}
+
+.fieldset_legend {
+    font-size: 12pt;
+    !important;
+}
+
+.container-comment th.lead {
+    height: 20px;
+    line-height: 20px;
+    !important;
+}
+.container-comment th.lead h4 {
+    font-size: 12pt;
+    !important;
+}
+
+#page-submission b.minigallery-title a {
+    font-size: 14pt;
+}
+
+#page-submission b.minigallery-title s {
+    font-size: 12pt;
+}
+
+section.gallery figure > figcaption p,
+section.gallery b figcaption p:nth-of-type(2) {
+    line-height: 20px;
+    font-size: 14px;
+}
+
+section.gallery figure > figcaption p:nth-of-type(1) {
+    max-height: 40px;
+}
+
+section.gallery.with-checkboxes figure {
+    padding-bottom: 100px;
+}
+
+center.flow span,
+center.flow span a,
+center.flow span a:hover {
+    font-size: 14px;
+}
+section.gallery figure {
+    padding-bottom: 65px;
+}
+
+ul.dropdown,
+ul.dropdown li,
+ul.dropdown ul {
+    font: 16px Helvetica, Trebuchet MS, Arial, sans-serif;
+}
