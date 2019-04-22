@@ -88,3 +88,11 @@ ul.dropdown ul {
 section.gallery.no-artistname figure {
     padding-bottom: 45px;
 }
+
+#page-galleryscraps .folder-list .user-folders h4 {
+    font-size: 13pt;
+}
+
+#page-galleryscraps .folder-list .user-folders h5 {
+    font-size: 12pt;
+}
