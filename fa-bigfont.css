@@ -84,3 +84,7 @@ ul.dropdown li,
 ul.dropdown ul {
     font: 16px Helvetica, Trebuchet MS, Arial, sans-serif;
 }
+
+section.gallery.no-artistname figure {
+    padding-bottom: 45px;
+}
